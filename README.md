@@ -1,1 +1,1 @@
-# fundamentals_of_Reinforcements_Learning
+# Fundamentals_of_Reinforcements_Learning
