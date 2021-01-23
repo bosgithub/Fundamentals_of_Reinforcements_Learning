@@ -2,13 +2,15 @@
 
 ### What is the K-armed bandit problem?
 
+An agent taking actions and receiving rewards based on the action selected
+
 ### How do we define value of an action?
 
-estimating the value of an action: Sample average method
+The value of each action is estimated by the expected value of an action: Sample average method
 
 ### How do we improve the estimated value of an action?
 
-Incremental update rule
+Incremental update rule, recursively update rule where we store the number of steps each action is taken and the previous estimate
 
 ### Exploration vs. Exploitation dilemma
 
