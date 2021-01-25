@@ -22,7 +22,7 @@ Exploitation - exploit knowledge for short-term benefit
 
 1. Epsilon-Greedy action selection
 
-Explore epsilon percent of times and exploit 1-epsilon percent of times
+Explore epsilon percent of times and exploit 1-epsilon percent of times, takes greedy action 1-epsilon percent of time, and take epsilon/N percent of time for any other action
 
 2. Optimistic Initial Values
 
