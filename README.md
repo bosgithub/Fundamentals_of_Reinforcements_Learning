@@ -31,3 +31,5 @@ If we have insight and set the value for each action larger than the sample aver
 3. Upper Confidence Bound(UCB) Selection
 
 Mixes expoitation and exploration through the use of confidence intervals, it uses the strategy of optimism in the face of uncertainty
+
+### Finite Markov Decision Process
